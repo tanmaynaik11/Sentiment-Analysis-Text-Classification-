@@ -1,4 +1,4 @@
-Text Classification with LSTM and Attention
+##Text Classification with LSTM and Attention
 Overview
 This project implements a multi-label text classification model using a Bidirectional LSTM with Attention. The model is trained on custom-labeled datasets and optimized for better generalization with label smoothing, dropout, and regularization.
 
