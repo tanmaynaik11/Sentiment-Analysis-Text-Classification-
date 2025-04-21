@@ -1,4 +1,4 @@
-# Text Classification with LSTM and Attention
+# Multi Label Classification with LSTM with Attention and BERT
 
 ## Overview
 This project implements a multi-label text classification model using a Bidirectional LSTM with Attention and BERT. The models are trained on custom-labeled datasets and optimized for better generalization with label smoothing, dropout, and regularization.
